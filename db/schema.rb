@@ -15,12 +15,12 @@ ActiveRecord::Schema[7.1].define(version: 2024_02_15_021538) do
   enable_extension "plpgsql"
 
   create_table "expense_groups", force: :cascade do |t|
-    t.bigint "user_id", null: false
+    t.bigint "expense_id", null: false
     t.bigint "group_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["expense_id"], name: "index_expense_groups_on_expense_id"
     t.index ["group_id"], name: "index_expense_groups_on_group_id"
-    t.index ["user_id"], name: "index_expense_groups_on_user_id"
   end
 
   create_table "expenses", force: :cascade do |t|
@@ -56,8 +56,8 @@ ActiveRecord::Schema[7.1].define(version: 2024_02_15_021538) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  add_foreign_key "expense_groups", "expenses"
   add_foreign_key "expense_groups", "groups"
-  add_foreign_key "expense_groups", "users"
   add_foreign_key "expenses", "groups"
   add_foreign_key "expenses", "users"
   add_foreign_key "groups", "users"
