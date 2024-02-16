@@ -66,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Not Deployed Yet.
+- [Video Demo](https://drive.google.com/file/d/1sRQkZAFl4kne2_sGOW_oKQZNynU81oUv/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
