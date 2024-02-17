@@ -12,6 +12,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Video Demo](#video-demo)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -62,11 +63,19 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- VIDEO DEMO -->
+
+## 🚀 Live Demo <a name="video-demo"></a>
+
+- [Video Demo](https://drive.google.com/file/d/1sRQkZAFl4kne2_sGOW_oKQZNynU81oUv/view?usp=sharing)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Video Demo](https://drive.google.com/file/d/1sRQkZAFl4kne2_sGOW_oKQZNynU81oUv/view?usp=sharing)
+- [Live Demo](https://budget-app-u8sh.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,7 +190,7 @@ If you like this project give me ⭐
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://github.com/microverseinc) for this project inspiration.
+I would like to thank [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) for this project design idea.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
