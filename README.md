@@ -65,7 +65,7 @@
 
 <!-- VIDEO DEMO -->
 
-## 🚀 Live Demo <a name="video-demo"></a>
+## 🚀 Video Demo <a name="video-demo"></a>
 
 - [Video Demo](https://drive.google.com/file/d/1sRQkZAFl4kne2_sGOW_oKQZNynU81oUv/view?usp=sharing)
 
