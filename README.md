@@ -75,7 +75,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://budget-app-u8sh.onrender.com/)
+- [Live Demo](https://budget-app-gkra.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
